@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-
-![Header Animation](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
+  
+![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0dGp3b2N4a2Y1bG1rZ3Z0ZzZ6eGx4b2V4c2N0Z2N4Z2ZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
@@ -15,21 +15,3 @@
 **"Код — это моя кисть, а игры — мой холст"** 🎨
 
 </div>
-
----
-
-### 🌟 **Моя деятельность**
-
-<div align="center">
-
-```javascript
-// 🎯 Текущий статус
-const developer = {
-  name: "somp3",
-  level: "🚀 Начинающий разработчик",
-  passion: "💖 Геймдев",
-  tools: ["Unity", "C#", "Blender"],
-  mission: "Создавать игры, которые вдохновляют"
-};
-
-console.log(developer.mission);
