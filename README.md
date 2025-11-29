@@ -1,24 +1,35 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=435&lines=👋+Привет!+Я+somp3" alt="Animated Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=👋+Привет!+Я+somp3;🎮+Геймер+и+Разработчик;🚀+Создаю+игры+в+Unity;💫+Мечтаю+о+геймдеве" alt="Animated Typing Header">
 </h1>
 
 <div align="center">
 
-**💻 Full-Stack Developer | 🎮 Геймер | 🚀 Создатель**
+![Header Animation](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
+
+</div>
+
+## 🎮 **Обо мне** ✨
+
+<div align="center">
+
+**"Код — это моя кисть, а игры — мой холст"** 🎨
 
 </div>
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7A3EFF&center=true&vCenter=true&width=435&lines=👋+Привет!+Я+somp3" alt="Animated Header">
-</h1>
+### 🌟 **Моя деятельность**
 
-class DayStatus:
-    def today(self):
-        return {
-            "coding": "🔥 В процессе",
-            "learning": "📚 Активно",
-            "gaming": "🎮 На паузе",
-            "motivation": "💯 Максимум"
-        }
+<div align="center">
+
+```javascript
+// 🎯 Текущий статус
+const developer = {
+  name: "somp3",
+  level: "🚀 Начинающий разработчик",
+  passion: "💖 Геймдев",
+  tools: ["Unity", "C#", "Blender"],
+  mission: "Создавать игры, которые вдохновляют"
+};
+
+console.log(developer.mission);
