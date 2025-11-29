@@ -12,6 +12,14 @@
 
 <div align="center">
 
+![Animated Hello](https://media.giphy.com/media/l0HU7JI1m1eEwz7XW/giphy.gif)
+
 **"Код — это моя кисть, а игры — мой холст"** 🎨
 
 </div>
+
+---
+
+### 🌟 **Кто я**
+
+<div align="center">
