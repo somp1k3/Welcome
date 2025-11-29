@@ -15,12 +15,14 @@
 <div align="center">
 
 ```java
-public class Developer {
+public class AboutMe {
     String name = "somp3";
-    String[] skills = {"Java", "Python", "Game Development"};
-    String[] passions = {"Programming", "Gaming", "Innovation"};
+    String[] passions = {"Programming", "Gaming", "Creating"};
+    String[] specialties = {"Java", "Python", "Game Development"};
     
-    void displayPassion() {
-        System.out.println("Создаю крутые проекты с ❤️");
+    void introduce() {
+        System.out.println("🚀 Увлеченный разработчик с страстью к созданию инновационных проектов");
+        System.out.println("🎮 Геймер в душе - от классических хитов до современных бестселлеров");
+        System.out.println("💡 Постоянно учусь новому и совершенствую свои навыки");
     }
 }
