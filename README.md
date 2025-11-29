@@ -1,25 +1,57 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=👋+Привет!+Я+somp3;🎮+Геймер+и+Разработчик;🚀+Создаю+игры+в+Unity;💫+Мечтаю+о+геймдеве" alt="Animated Typing Header">
-</h1>
-
-<div align="center">
-  
-![Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V0dGp3b2N4a2Y1bG1rZ3Z0ZzZ6eGx4b2V4c2N0Z2N4Z2ZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
-
-</div>
-
-## 🎮 **Обо мне** ✨
-
-<div align="center">
-
-![Animated Hello](https://media.giphy.com/media/l0HU7JI1m1eEwz7XW/giphy.gif)
-
-**"Код — это моя кисть, а игры — мой холст"** 🎨
 
 </div>
 
 ---
 
-### 🌟 **Кто я**
+### 🎯 **Мой мир увлечений**
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="CS:GO"/>
+      <br/>
+      <sub><b>CS:GO</b></sub>
+      <br/>
+      <img src="https://img.shields.io/badge/🎮_Шутер-FF6B6B?style=flat-square"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="60" alt="Minecraft"/>
+      <br/>
+      <sub><b>Minecraft</b></sub>
+      <br/>
+      <img src="https://img.shields.io/badge/🏗️_Песочница-4ECDC4?style=flat-square"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="60" alt="PUBG"/>
+      <br/>
+      <sub><b>PUBG</b></sub>
+      <br/>
+      <img src="https://img.shields.io/badge/🎯_Баттл_Роял-45B7D1?style=flat-square"/>
+    </td>
+    <td align="center" width="150">
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Gaming"/>
+      <br/>
+      <sub><b>И другие</b></sub>
+      <br/>
+      <img src="https://img.shields.io/badge/🎪_Разные-96CEB4?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🚀 **Мой подход к жизни**
+
+<div align="center">
+
+![Life Approach](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+<div align="center">
+  
+**💡 Креативное мышление**
